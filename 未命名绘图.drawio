@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T02:13:27.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="glP6u1-o75W44iM0yne2" version="21.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-28T02:14:15.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="H0iPikVkDvXR0H2gJmMA" version="21.4.0" type="github" pages="2">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1221" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         <mxCell id="Qo9bAX1KGsmqKhei41a8-21" value="救赎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="750" y="830" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qo9bAX1KGsmqKhei41a8-22" value="头盔" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Qo9bAX1KGsmqKhei41a8-22" value="头盔 (攻速慢)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1050" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qo9bAX1KGsmqKhei41a8-23" value="破防者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
