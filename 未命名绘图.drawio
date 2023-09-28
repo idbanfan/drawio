@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T02:04:46.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ivbtBhlFuLC12bk1jlBQ" version="21.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-28T02:06:26.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="0Rd2-PXkwxUWhUQIoO5e" version="21.4.0" type="github" pages="2">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1221" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -67,10 +67,10 @@
           <mxGeometry x="750" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qo9bAX1KGsmqKhei41a8-4" value="法力装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qo9bAX1KGsmqKhei41a8-5" value="特效装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="1220" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qo9bAX1KGsmqKhei41a8-6" value="帽子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="500" width="120" height="60" as="geometry" />
@@ -100,10 +100,10 @@
           <mxGeometry x="70" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qo9bAX1KGsmqKhei41a8-15" value="蓝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qo9bAX1KGsmqKhei41a8-16" value="青龙刀" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qo9bAX1KGsmqKhei41a8-17" value="狂徒" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="500" width="120" height="60" as="geometry" />
@@ -121,7 +121,31 @@
           <mxGeometry x="750" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qo9bAX1KGsmqKhei41a8-22" value="头盔" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="1050" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9bAX1KGsmqKhei41a8-23" value="破防者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9bAX1KGsmqKhei41a8-24" value="轻语" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9bAX1KGsmqKhei41a8-25" value="闪避装" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9bAX1KGsmqKhei41a8-26" value="夜刃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9bAX1KGsmqKhei41a8-27" value="夜刃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9bAX1KGsmqKhei41a8-28" value="夜刃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9bAX1KGsmqKhei41a8-29" value="夜刃" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9bAX1KGsmqKhei41a8-30" value="帽子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
