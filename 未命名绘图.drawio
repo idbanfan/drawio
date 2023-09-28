@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T02:09:21.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wXH-pM5ObsuG3mKukYsE" version="21.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-28T02:10:12.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GoMatBKyXjZnnSSaXeU2" version="21.4.0" type="github" pages="2">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1221" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1VbBsm_JJlaG2g4XLmem" name="装备篇章">
-    <mxGraphModel dx="1221" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="911" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,7 +117,7 @@
         <mxCell id="Qo9bAX1KGsmqKhei41a8-20" value="日炎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="750" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qo9bAX1KGsmqKhei41a8-21" value="日炎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Qo9bAX1KGsmqKhei41a8-21" value="救赎" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="750" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qo9bAX1KGsmqKhei41a8-22" value="头盔" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -139,7 +139,7 @@
           <mxGeometry x="900" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qo9bAX1KGsmqKhei41a8-28" value="饮血" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qo9bAX1KGsmqKhei41a8-29" value="科技枪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="570" width="120" height="60" as="geometry" />
@@ -160,7 +160,10 @@
           <mxGeometry x="1220" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qo9bAX1KGsmqKhei41a8-35" value="泰坦" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qo9bAX1KGsmqKhei41a8-36" value="综合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
