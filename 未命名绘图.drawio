@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T02:40:39.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lacLaqzesZiqvIqFbBmh" version="21.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-28T09:15:43.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="pCHVJTMbqmMIEZqUfLgO" version="21.4.0" type="github" pages="3">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1221" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -299,8 +299,8 @@
         <mxCell id="kPh0SdZkS3Z3ez4khIXE-33" value="留低费打工卡" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1600" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kPh0SdZkS3Z3ez4khIXE-35" value="用已知的卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="1140" width="120" height="60" as="geometry" />
+        <mxCell id="kPh0SdZkS3Z3ez4khIXE-35" value="用已知的卡取得最好的成绩" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kPh0SdZkS3Z3ez4khIXE-36" value="7级前大约有100张卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1580" y="1080" width="120" height="60" as="geometry" />
