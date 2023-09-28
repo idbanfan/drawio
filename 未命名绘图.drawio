@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T02:31:27.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="A0SZlUC8m05l8Qukp7kE" version="21.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-28T02:32:29.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="p5Ko0v80cx69cb6y2BGZ" version="21.4.0" type="github" pages="3">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1221" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -251,14 +251,17 @@
         <mxCell id="kPh0SdZkS3Z3ez4khIXE-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kPh0SdZkS3Z3ez4khIXE-17" target="kPh0SdZkS3Z3ez4khIXE-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kPh0SdZkS3Z3ez4khIXE-17" value="更好的经济" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="kPh0SdZkS3Z3ez4khIXE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kPh0SdZkS3Z3ez4khIXE-17" target="kPh0SdZkS3Z3ez4khIXE-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kPh0SdZkS3Z3ez4khIXE-18" value="装备是随机的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="810" width="120" height="60" as="geometry" />
+        <mxCell id="kPh0SdZkS3Z3ez4khIXE-17" value="更好的卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kPh0SdZkS3Z3ez4khIXE-19" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="kPh0SdZkS3Z3ez4khIXE-18" value="已知的卡" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kPh0SdZkS3Z3ez4khIXE-19" value="更好的经济" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
