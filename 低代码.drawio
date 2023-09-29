@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T14:10:53.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ug_7lqWQM7zTFc1Dmmln" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-29T14:12:02.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="W-LRm_sZSz1Bl--KHnFH" version="21.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2048" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -303,6 +303,12 @@
         </mxCell>
         <mxCell id="M54eNNnaTNe_O9hZ-aQh-112" value="上下文环境;分为;前端上下文;后端上下文" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1100" y="230" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M54eNNnaTNe_O9hZ-aQh-113" value="前端上下文有:userId" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1100" y="320" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M54eNNnaTNe_O9hZ-aQh-114" value="后端上下文有:根据userId所获得的用户其他信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1100" y="400" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
