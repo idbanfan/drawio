@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T16:08:10.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bfBA0aqraCVCWfS13q4n" version="21.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-30T02:44:11.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="SIzMJKhMFQOZEH-umkss" version="21.4.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2862" dy="1063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -381,6 +381,12 @@
         </mxCell>
         <mxCell id="s9uK-2VLxScwMWczrF22-8" value="样式对象 : 布局对象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1330" y="630" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9uK-2VLxScwMWczrF22-11" value="数据与元数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="720" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s9uK-2VLxScwMWczrF22-12" value="元数据:描述数据的展示方式,结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="820" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
