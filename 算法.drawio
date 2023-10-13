@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T23:12:33.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="pUT4P4Z7UTUTnH-vp3Ul" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T23:12:40.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="DkFI3cEgOO5IyxC8OEHo" version="22.0.0" type="github">
   <diagram name="排序" id="qwAmbdf05ej69Gk2fs9i">
     <mxGraphModel dx="2048" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -247,13 +247,13 @@
         <mxCell id="wFBDz97jjs1Y1SIJImTP-84" value="希尔排序&lt;br&gt;(间隔插入排序)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="800" y="450" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wFBDz97jjs1Y1SIJImTP-85" value="归并排序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="wFBDz97jjs1Y1SIJImTP-85" value="归并排序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="800" y="540" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wFBDz97jjs1Y1SIJImTP-86" value="需要空间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="wFBDz97jjs1Y1SIJImTP-86" value="需要空间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1050" y="540" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wFBDz97jjs1Y1SIJImTP-87" value="需要移动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="wFBDz97jjs1Y1SIJImTP-87" value="需要移动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1050" y="620" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
