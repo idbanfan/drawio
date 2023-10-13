@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T22:56:54.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="nAKdFyYIIY129U23gUsq" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T23:06:46.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="4eg9dUrSVJZb5URSw8bO" version="22.0.0" type="github">
   <diagram name="排序" id="qwAmbdf05ej69Gk2fs9i">
     <mxGraphModel dx="2048" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
         <mxCell id="wFBDz97jjs1Y1SIJImTP-76" value="由于bc比较时,a不确定bc是否会交换,所以还是要重新比较ab" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="1295" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wFBDz97jjs1Y1SIJImTP-79" value="插入排序&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(和冒泡排序类似)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="wFBDz97jjs1Y1SIJImTP-79" value="插入排序&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(性质和冒泡排序类似)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="800" y="360" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wFBDz97jjs1Y1SIJImTP-80" value="https://www.cnblogs.com/onepixel/articles/7674659.html" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -244,7 +244,7 @@
         <mxCell id="wFBDz97jjs1Y1SIJImTP-83" value="移动次数多" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1540" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wFBDz97jjs1Y1SIJImTP-84" value="希尔排序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="wFBDz97jjs1Y1SIJImTP-84" value="希尔排序&lt;br&gt;(间隔插入排序)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="800" y="450" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
