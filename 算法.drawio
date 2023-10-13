@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T10:00:26.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="V1QI5HLGwJsmGvxKopOh" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T10:02:55.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="3gXIgYyLiA1ilyMXGldO" version="22.0.0" type="github">
   <diagram name="排序" id="qwAmbdf05ej69Gk2fs9i">
     <mxGraphModel dx="2048" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="d31ktwEh4UAG3ibFD3rj-3" value="信息量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d31ktwEh4UAG3ibFD3rj-4" value="结果是什么?&lt;br&gt;每个元素都在正确的下标位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d31ktwEh4UAG3ibFD3rj-4" value="希望的结果是什么?&lt;br&gt;每个元素都在正确的下标位置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="190" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d31ktwEh4UAG3ibFD3rj-5" value="如何做呢?&lt;br&gt;移动元素" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
