@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T23:12:40.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="DkFI3cEgOO5IyxC8OEHo" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T23:18:51.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="t0GUolw8xOSLq_2SLoBL" version="22.0.0" type="github">
   <diagram name="排序" id="qwAmbdf05ej69Gk2fs9i">
     <mxGraphModel dx="2048" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -255,6 +255,34 @@
         </mxCell>
         <mxCell id="wFBDz97jjs1Y1SIJImTP-87" value="需要移动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1050" y="620" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wFBDz97jjs1Y1SIJImTP-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wFBDz97jjs1Y1SIJImTP-89" target="wFBDz97jjs1Y1SIJImTP-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFBDz97jjs1Y1SIJImTP-95" value="2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wFBDz97jjs1Y1SIJImTP-88">
+          <mxGeometry x="0.1467" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFBDz97jjs1Y1SIJImTP-89" value="4132" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wFBDz97jjs1Y1SIJImTP-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wFBDz97jjs1Y1SIJImTP-91" target="wFBDz97jjs1Y1SIJImTP-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wFBDz97jjs1Y1SIJImTP-97" value="3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wFBDz97jjs1Y1SIJImTP-90">
+          <mxGeometry x="-0.1238" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wFBDz97jjs1Y1SIJImTP-91" value="1423" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wFBDz97jjs1Y1SIJImTP-92" value="1234" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wFBDz97jjs1Y1SIJImTP-98" value="空间存储了&quot;顺序信息&quot;,&lt;br&gt;减少了重复比较次数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="540" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
