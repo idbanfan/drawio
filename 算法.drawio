@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T10:39:16.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="QqBvxYGJJNIhBrwO6ipW" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T10:41:00.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="I8mqZGHKcjlL9aLC0Eyy" version="22.0.0" type="github">
   <diagram name="排序" id="qwAmbdf05ej69Gk2fs9i">
     <mxGraphModel dx="1845" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,6 +128,9 @@
         </mxCell>
         <mxCell id="d31ktwEh4UAG3ibFD3rj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.568;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d31ktwEh4UAG3ibFD3rj-37" target="d31ktwEh4UAG3ibFD3rj-45">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d31ktwEh4UAG3ibFD3rj-49" value="n-1 (最好情况)&lt;br&gt;当发现不需要交换时" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="272" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
