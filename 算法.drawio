@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T10:34:33.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="oIHarqltwK15fKzfhab6" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T10:36:38.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="zn9L5Dxag4qaMHn_D3VQ" version="22.0.0" type="github">
   <diagram name="排序" id="qwAmbdf05ej69Gk2fs9i">
     <mxGraphModel dx="1845" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,10 +53,10 @@
           <mxGeometry x="1060" y="190" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d31ktwEh4UAG3ibFD3rj-21" value="每轮比较可以获得多少信息量?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="280" width="170" height="52" as="geometry" />
+          <mxGeometry x="1570" y="280" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="d31ktwEh4UAG3ibFD3rj-22" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="d31ktwEh4UAG3ibFD3rj-21">
-          <mxGeometry y="26" width="170" height="26" as="geometry" />
+        <mxCell id="d31ktwEh4UAG3ibFD3rj-22" value="每次比较获得的信息不是固定的用变量y=f(x)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="d31ktwEh4UAG3ibFD3rj-21">
+          <mxGeometry y="26" width="170" height="44" as="geometry" />
         </mxCell>
         <mxCell id="d31ktwEh4UAG3ibFD3rj-25" value="总共需要多少信息?" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1776" y="280" width="140" height="52" as="geometry" />
