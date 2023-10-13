@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T10:12:32.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="U2LCNomuyqttNjAfpvkC" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-13T10:12:46.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="M-ebFkgy3wo5oIVVTXtc" version="22.0.0" type="github">
   <diagram name="排序" id="qwAmbdf05ej69Gk2fs9i">
     <mxGraphModel dx="2048" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         <mxCell id="d31ktwEh4UAG3ibFD3rj-9" value="传递性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-150" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d31ktwEh4UAG3ibFD3rj-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d31ktwEh4UAG3ibFD3rj-10" value="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d31ktwEh4UAG3ibFD3rj-11" value="冒泡排序&lt;br&gt;(传递性排序)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
