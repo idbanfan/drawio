@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T12:37:09.863Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="RGeWhQs1Tbm11EY5jZV7" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T12:37:40.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="5XSlKdoD07O0JPTWHJI9" version="22.0.4" type="github">
   <diagram name="排序" id="qwAmbdf05ej69Gk2fs9i">
     <mxGraphModel dx="2048" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -251,10 +251,10 @@
           <mxGeometry x="800" y="540" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wFBDz97jjs1Y1SIJImTP-86" value="需要空间n" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="540" width="180" height="60" as="geometry" />
+          <mxGeometry x="997.5" y="540" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wFBDz97jjs1Y1SIJImTP-87" value="需要移动" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="620" width="180" height="60" as="geometry" />
+          <mxGeometry x="997.5" y="620" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wFBDz97jjs1Y1SIJImTP-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wFBDz97jjs1Y1SIJImTP-89" target="wFBDz97jjs1Y1SIJImTP-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -265,7 +265,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wFBDz97jjs1Y1SIJImTP-89" value="4132" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1510" y="540" width="60" height="30" as="geometry" />
+          <mxGeometry x="1442.5" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wFBDz97jjs1Y1SIJImTP-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="wFBDz97jjs1Y1SIJImTP-91" target="wFBDz97jjs1Y1SIJImTP-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -276,22 +276,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wFBDz97jjs1Y1SIJImTP-91" value="1423" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1630" y="540" width="60" height="30" as="geometry" />
+          <mxGeometry x="1562.5" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wFBDz97jjs1Y1SIJImTP-92" value="1234" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="540" width="60" height="30" as="geometry" />
+          <mxGeometry x="1692.5" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wFBDz97jjs1Y1SIJImTP-98" value="空间存储了&quot;顺序信息&quot;,&lt;br&gt;减少了重复比较次数" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1250" y="540" width="180" height="60" as="geometry" />
+          <mxGeometry x="1192.5" y="540" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wFBDz97jjs1Y1SIJImTP-99" value="快速排序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="800" y="710" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wPkc22PnyEy5cuso1Ues-1" value="需要空间lgn" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="710" width="180" height="60" as="geometry" />
+          <mxGeometry x="997.5" y="710" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wPkc22PnyEy5cuso1Ues-2" value="空间lgn存储了什么?&lt;br&gt;存储了子数组的起始和结束&lt;br&gt;分割后的两个子数组,左数组&amp;lt;中&amp;lt;右数组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="710" width="300" height="60" as="geometry" />
+          <mxGeometry x="1192.5" y="710" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
