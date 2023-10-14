@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T12:37:40.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="5XSlKdoD07O0JPTWHJI9" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T12:39:08.619Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="O9mg6w-33oDbDtOx330X" version="22.0.4" type="github">
   <diagram name="排序" id="qwAmbdf05ej69Gk2fs9i">
     <mxGraphModel dx="2048" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -290,7 +290,7 @@
         <mxCell id="wPkc22PnyEy5cuso1Ues-1" value="需要空间lgn" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="997.5" y="710" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wPkc22PnyEy5cuso1Ues-2" value="空间lgn存储了什么?&lt;br&gt;存储了子数组的起始和结束&lt;br&gt;分割后的两个子数组,左数组&amp;lt;中&amp;lt;右数组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="wPkc22PnyEy5cuso1Ues-2" value="空间lgn存储了什么?&lt;br&gt;存储了子数组的起始和结束(其实也是记录了顺序信息)&lt;br&gt;分割后的两个子数组,左数组&amp;lt;中&amp;lt;右数组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1192.5" y="710" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
