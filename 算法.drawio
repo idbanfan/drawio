@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-14T17:53:29.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="33e7j8j7WDUcOSaicf3U" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-14T22:26:26.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="_RkuKL30TS2Pr5H3MJHh" version="22.0.4" type="github">
   <diagram name="排序" id="qwAmbdf05ej69Gk2fs9i">
     <mxGraphModel dx="2048" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -345,6 +345,9 @@
         </mxCell>
         <mxCell id="7Fge3CjWYlNGoq28zckg-3" value="双蛋问题: 粗选+细选" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1030" y="1250" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7Fge3CjWYlNGoq28zckg-4" value="未解决" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1390" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
