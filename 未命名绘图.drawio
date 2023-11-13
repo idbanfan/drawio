@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T15:23:00.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DDVb_-94k_UjQPDo3L4z" version="22.1.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-13T15:23:40.973Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xl1vLN-RBrdqwcp_MSfg" version="22.1.0" type="github" pages="5">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1221" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -439,13 +439,19 @@
         <mxCell id="EU8dGAv3cHzhSn-gcODy-12" value="触发事件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="270" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="EU8dGAv3cHzhSn-gcODy-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EU8dGAv3cHzhSn-gcODy-13" target="EU8dGAv3cHzhSn-gcODy-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EU8dGAv3cHzhSn-gcODy-13" value="处理事件" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="270" y="1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EU8dGAv3cHzhSn-gcODy-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EU8dGAv3cHzhSn-gcODy-16" target="EU8dGAv3cHzhSn-gcODy-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EU8dGAv3cHzhSn-gcODy-16" value="设置源asm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EU8dGAv3cHzhSn-gcODy-20" value="设置源asm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EU8dGAv3cHzhSn-gcODy-20" value="存储地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
