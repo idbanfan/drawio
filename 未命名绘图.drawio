@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-19T12:11:16.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Ks5SnKcwkoENZhAnVBym" version="22.1.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-19T12:15:17.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ePTwr28KMACC7hNjTkWK" version="22.1.3" type="github" pages="6">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
     <mxGraphModel dx="1221" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -485,7 +485,7 @@
           <mxGeometry x="310" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iklU745Wvtdsuf4jciae-3" value="汇编语言" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iklU745Wvtdsuf4jciae-4" value="进程和线程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="530" width="120" height="60" as="geometry" />
@@ -499,11 +499,41 @@
         <mxCell id="iklU745Wvtdsuf4jciae-10" value="指令集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iklU745Wvtdsuf4jciae-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iklU745Wvtdsuf4jciae-11" target="iklU745Wvtdsuf4jciae-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iklU745Wvtdsuf4jciae-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iklU745Wvtdsuf4jciae-11" target="iklU745Wvtdsuf4jciae-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iklU745Wvtdsuf4jciae-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iklU745Wvtdsuf4jciae-11" target="iklU745Wvtdsuf4jciae-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iklU745Wvtdsuf4jciae-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iklU745Wvtdsuf4jciae-11" target="iklU745Wvtdsuf4jciae-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iklU745Wvtdsuf4jciae-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iklU745Wvtdsuf4jciae-11" target="iklU745Wvtdsuf4jciae-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iklU745Wvtdsuf4jciae-11" value="cpu结构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iklU745Wvtdsuf4jciae-12" value="cpu运行逻辑" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iklU745Wvtdsuf4jciae-13" value="CU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iklU745Wvtdsuf4jciae-14" value="ALU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iklU745Wvtdsuf4jciae-15" value="R" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iklU745Wvtdsuf4jciae-16" value="Clock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iklU745Wvtdsuf4jciae-17" value="Cache" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
