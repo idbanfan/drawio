@@ -1,36 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T09:44:56.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TsKbddU_xZ5Tsh80twlp" version="22.1.11" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-12-25T08:42:27.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LemWS7ssWXz3BxfGj_EM" version="22.1.11" type="github" pages="8">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1221" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LFv4a6Q-jhVQ7sQE2mMN-1" value="阵容分类" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LFv4a6Q-jhVQ7sQE2mMN-2" value="前期阵容" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LFv4a6Q-jhVQ7sQE2mMN-3" value="装备分类" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LFv4a6Q-jhVQ7sQE2mMN-4" value="中期阵容" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="550" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LFv4a6Q-jhVQ7sQE2mMN-5" value="后期阵容" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LFv4a6Q-jhVQ7sQE2mMN-6" value="阶段与流程" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LFv4a6Q-jhVQ7sQE2mMN-7" value="问题" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="630" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LFv4a6Q-jhVQ7sQE2mMN-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="580" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="INEBwVxaBn0tfg9aojOi-1" value="高羁绊" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="750" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
