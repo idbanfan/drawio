@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T14:01:55.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="OvY-LNFBuQiNYQtAnUGr" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-31T14:02:39.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KY2zy4yXLtySZAmXqTEa" version="22.1.15" type="github">
   <diagram name="第 1 页" id="HuQndsxqc5eb89gfjrGO">
-    <mxGraphModel dx="2048" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2875" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,16 +32,16 @@
           <mxGeometry x="-360" y="135" width="300" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GOtizHdzPTShPssf-sjm-10" value="0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="280" width="300" height="25" as="geometry" />
+          <mxGeometry x="-870" y="565" width="300" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GOtizHdzPTShPssf-sjm-11" value="0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="370" width="300" height="25" as="geometry" />
+          <mxGeometry x="-870" y="655" width="300" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GOtizHdzPTShPssf-sjm-12" value="DOS体" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCFF;" vertex="1" parent="1">
           <mxGeometry x="-360" y="160" width="300" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GOtizHdzPTShPssf-sjm-13" value="0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="320" width="300" height="25" as="geometry" />
+          <mxGeometry x="-870" y="605" width="300" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GOtizHdzPTShPssf-sjm-14" value="NT头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="-360" y="185" width="300" height="25" as="geometry" />
@@ -79,7 +79,7 @@
         <mxCell id="GOtizHdzPTShPssf-sjm-26" value="0x1D8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-540" y="210" width="110" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="GOtizHdzPTShPssf-sjm-27" value="0xE0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GOtizHdzPTShPssf-sjm-27" value="0x200" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-540" y="235" width="110" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GOtizHdzPTShPssf-sjm-29" value="file" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="GOtizHdzPTShPssf-sjm-30" value="mem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="80" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="GOtizHdzPTShPssf-sjm-31" value="0x228" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="260" width="110" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
