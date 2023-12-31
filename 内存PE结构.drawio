@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T15:45:33.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="t5oMcNJKAY4wt2OdE_-q" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-31T15:48:23.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3lSu1THZZtHt9NuyZgiQ" version="22.1.15" type="github" pages="2">
   <diagram name="内存结构" id="HuQndsxqc5eb89gfjrGO">
     <mxGraphModel dx="2875" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,6 +138,41 @@
         </mxCell>
         <mxCell id="GOtizHdzPTShPssf-sjm-51" value="0x100000228" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="260" width="110" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WXKmIp-7fgQlycu4-iUV" name="WinApi">
+    <mxGraphModel dx="2048" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iZTFBFE9VuqFGPUUCtYl-1" value="user32.dll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iZTFBFE9VuqFGPUUCtYl-2" value="kernel32.dll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iZTFBFE9VuqFGPUUCtYl-3" value="ntdll.dll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iZTFBFE9VuqFGPUUCtYl-4" value="advapi32.dll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iZTFBFE9VuqFGPUUCtYl-5" value="gdi32.dll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iZTFBFE9VuqFGPUUCtYl-6" value="qq.exe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iZTFBFE9VuqFGPUUCtYl-7" value="ntoskrnl.exe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iZTFBFE9VuqFGPUUCtYl-8" value="0x0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="80" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="iZTFBFE9VuqFGPUUCtYl-9" value="0x80000000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="340" width="110" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
